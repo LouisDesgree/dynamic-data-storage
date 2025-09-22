@@ -1,0 +1,687 @@
+2025-09-22 15:00:02,542 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:00:02,543 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:00:02,544 [INFO] Drive label: LaCie
+2025-09-22 15:04:31,323 [ERROR] Interrupted by user.
+2025-09-22 15:04:33,959 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:04:33,960 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:04:33,961 [INFO] Drive label: LaCie
+2025-09-22 15:05:23,409 [ERROR] Interrupted by user.
+2025-09-22 15:05:24,366 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:05:24,367 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:05:24,367 [INFO] Drive label: LaCie
+2025-09-22 15:10:31,135 [ERROR] Interrupted by user.
+2025-09-22 15:11:07,284 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:11:07,286 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:11:07,286 [INFO] Drive label: LaCie
+2025-09-22 15:11:07,286 [INFO] Scanning source for files...
+2025-09-22 15:13:40,090 [ERROR] Interrupted by user.
+2025-09-22 15:13:48,373 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:13:48,375 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:13:48,375 [INFO] Drive label: LaCie
+2025-09-22 15:13:48,375 [INFO] Single-file test mode enabled.
+2025-09-22 15:13:48,387 [ERROR] Single file /Volumes/LaCie/path/on/drive/test.mov does not exist or is not a file.
+2025-09-22 15:19:33,653 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:19:33,655 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:19:33,655 [INFO] Drive label: LaCie
+2025-09-22 15:19:33,656 [INFO] Single-file test mode enabled.
+2025-09-22 15:19:33,754 [ERROR] Single file /Volumes/LaCie/Projects/clip001.mov does not exist or is not a file.
+2025-09-22 15:21:06,037 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:21:06,039 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:21:06,039 [INFO] Drive label: LaCie
+2025-09-22 15:21:06,039 [INFO] Single-file test mode enabled.
+2025-09-22 15:21:06,041 [INFO] Ingesting only WISE_2021_DAY_3_SESSION_2_CLEAN.mp4
+2025-09-22 15:21:06,041 [INFO] Hashing with 8 worker threads (status interval 15.0s).
+2025-09-22 15:21:33,334 [ERROR] Unable to read /Volumes/LaCie/WISE_2021_DAY_3_SESSION_2_CLEAN.mp4: [Errno 6] Device not configured
+2025-09-22 15:21:42,766 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:21:42,767 [ERROR] No removable volumes detected. Provide --source to pick one manually.
+2025-09-22 15:21:50,265 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:21:50,266 [ERROR] No removable volumes detected. Provide --source to pick one manually.
+2025-09-22 15:22:00,918 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:22:00,920 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:22:00,920 [INFO] Drive label: LaCie
+2025-09-22 15:22:00,920 [INFO] Single-file test mode enabled.
+2025-09-22 15:22:00,922 [INFO] Ingesting only WISE_2021_DAY_3_SESSION_2_CLEAN.mp4
+2025-09-22 15:22:00,922 [INFO] Hashing with 8 worker threads (status interval 15.0s).
+2025-09-22 15:28:27,776 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:28:27,776 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:28:27,777 [INFO] Drive label: LaCie
+2025-09-22 15:28:27,777 [INFO] Single-file test mode enabled.
+2025-09-22 15:28:27,778 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:28:27,778 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:28:50,813 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:28:50,820 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_yq20vzb_/catalog.jsonl
+2025-09-22 15:28:50,820 [INFO] Dry-run complete. Skipping transfer.
+2025-09-22 15:28:50,820 [INFO] Remote ingest location: <dry-run>
+2025-09-22 15:28:50,820 [INFO] Files ingested: 1
+2025-09-22 15:28:50,821 [INFO] Total size: 903.65 MB
+2025-09-22 15:28:50,821 [INFO] No duplicate SHA-256 hashes detected.
+2025-09-22 15:30:01,244 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:30:01,245 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:30:01,245 [INFO] Drive label: LaCie
+2025-09-22 15:30:01,245 [INFO] Single-file test mode enabled.
+2025-09-22 15:30:01,246 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:30:01,246 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:30:24,036 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:31:02,938 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_340h1gtx/catalog.jsonl
+2025-09-22 15:35:19,061 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:35:19,062 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:35:19,062 [INFO] Drive label: LaCie
+2025-09-22 15:35:19,062 [INFO] Single-file test mode enabled.
+2025-09-22 15:35:19,063 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:35:19,063 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:35:41,821 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:35:41,828 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_d69lew7t/catalog.jsonl
+2025-09-22 15:37:29,896 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:37:29,897 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:37:29,897 [INFO] Drive label: LaCie
+2025-09-22 15:37:29,897 [INFO] Single-file test mode enabled.
+2025-09-22 15:37:29,898 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:37:29,898 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:37:52,868 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:37:52,878 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_900_c_dh/catalog.jsonl
+2025-09-22 15:37:54,023 [INFO] Launching rsync transfer to /volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-153752/files
+2025-09-22 15:37:54,073 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--protect-args', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_900_c_dh/manifest.txt', '--from0', '/Volumes/LaCie/', 'ingest@192.168.1.37:/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-153752/files/']' returned non-zero exit status 1.; falling back to SFTP.
+2025-09-22 15:42:57,010 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:42:57,011 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:42:57,011 [INFO] Drive label: LaCie
+2025-09-22 15:42:57,011 [INFO] Single-file test mode enabled.
+2025-09-22 15:42:57,012 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:42:57,012 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:43:20,078 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:43:20,084 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_xa9mikw0/catalog.jsonl
+2025-09-22 15:43:21,233 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 15:43:21,234 [INFO] Launching rsync transfer to /volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-154320/files
+2025-09-22 15:43:26,804 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_xa9mikw0/manifest.txt', '--from0', '/Volumes/LaCie/', "ingest@192.168.1.37:'/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-154320/files/'"]' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 15:43:26,818 [ERROR] SFTP subsystem unavailable on NAS. Enable SFTP in DSM (Control Panel -> File Services -> FTP -> Enable SFTP).
+2025-09-22 15:44:08,367 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:44:08,368 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:44:08,368 [INFO] Drive label: LaCie
+2025-09-22 15:44:08,371 [INFO] Single-file test mode enabled.
+2025-09-22 15:44:08,371 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:44:08,372 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:44:31,128 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:44:31,132 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_09q8y2dr/catalog.jsonl
+2025-09-22 15:44:32,069 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 15:44:32,069 [INFO] Launching rsync transfer to /volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-154431/files
+2025-09-22 15:44:36,663 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_09q8y2dr/manifest.txt', '--from0', '/Volumes/LaCie/', "ingest@192.168.1.37:'/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-154431/files/'"]' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 15:44:36,755 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 15:50:29,780 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:50:29,781 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:50:29,781 [INFO] Drive label: LaCie
+2025-09-22 15:50:29,782 [INFO] Single-file test mode enabled.
+2025-09-22 15:50:29,782 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:50:29,783 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:50:53,034 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:50:53,040 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_6059wd93/catalog.jsonl
+2025-09-22 15:50:53,983 [INFO] NAS_PASSWORD provided; skipping rsync because password-based SSH cannot be automated. Configure SSH keys or use --skip-rsync explicitly.
+2025-09-22 15:50:53,983 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 15:50:54,103 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 15:52:39,521 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:52:39,522 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:52:39,522 [INFO] Drive label: LaCie
+2025-09-22 15:52:39,522 [INFO] Single-file test mode enabled.
+2025-09-22 15:52:39,523 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:52:39,523 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:53:02,339 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:53:02,344 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_cxb9o09n/catalog.jsonl
+2025-09-22 15:53:03,257 [INFO] NAS_PASSWORD provided; skipping rsync because password-based SSH cannot be automated. Configure SSH keys or use --skip-rsync explicitly.
+2025-09-22 15:53:03,258 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 15:53:03,374 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 15:56:55,012 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 15:56:55,013 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 15:56:55,013 [INFO] Drive label: LaCie
+2025-09-22 15:56:55,014 [INFO] Single-file test mode enabled.
+2025-09-22 15:56:55,014 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 15:56:55,015 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 15:57:18,083 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 15:57:18,088 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_jsj_wg__/catalog.jsonl
+2025-09-22 15:57:19,068 [INFO] NAS_PASSWORD provided; skipping rsync because password-based SSH cannot be automated. Configure SSH keys or use --skip-rsync explicitly.
+2025-09-22 15:57:19,069 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 15:57:19,183 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 15:57:19,195 [ERROR] Failed ensuring base_dir '/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-155718/files': SFTP mkdir failed for '/volume1': [Errno 13] Permission denied
+2025-09-22 17:22:50,366 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:22:50,367 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:22:50,367 [INFO] Drive label: LaCie
+2025-09-22 17:22:50,370 [INFO] Single-file test mode enabled.
+2025-09-22 17:22:50,371 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:22:50,372 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:23:13,300 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:23:13,308 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_brf5pubn/catalog.jsonl
+2025-09-22 17:23:14,616 [INFO] NAS_PASSWORD provided; skipping rsync because password-based SSH cannot be automated. Configure SSH keys or use --skip-rsync explicitly.
+2025-09-22 17:23:14,617 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 17:23:14,727 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:23:14,740 [ERROR] Failed ensuring base_dir '/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-172313/files': SFTP mkdir failed for '/volume1': [Errno 13] Permission denied
+2025-09-22 17:26:23,001 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:26:23,004 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:26:23,004 [INFO] Drive label: LaCie
+2025-09-22 17:26:23,004 [INFO] Single-file test mode enabled.
+2025-09-22 17:26:23,006 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:26:23,006 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:26:46,117 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:26:46,126 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_8vi0acqu/catalog.jsonl
+2025-09-22 17:26:47,659 [INFO] NAS_PASSWORD provided; skipping rsync because password-based SSH cannot be automated. Configure SSH keys or use --skip-rsync explicitly.
+2025-09-22 17:26:47,659 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 17:26:47,808 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:26:47,813 [ERROR] Cannot access base_dir '/volume1/Gestion Dynamique data event' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 17:27:52,892 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:27:52,894 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:27:52,894 [INFO] Drive label: LaCie
+2025-09-22 17:27:52,894 [INFO] Single-file test mode enabled.
+2025-09-22 17:27:52,897 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:27:52,897 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:28:15,857 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:28:15,867 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_4i74t0hx/catalog.jsonl
+2025-09-22 17:28:17,441 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 17:28:17,441 [INFO] Launching rsync transfer to /volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-172815/files
+2025-09-22 17:28:17,679 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_4i74t0hx/manifest.txt', '--from0', '/Volumes/LaCie/', "ingest@192.168.1.37:'/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-172815/files/'"]' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 17:28:17,754 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:28:17,758 [ERROR] Cannot access base_dir '/volume1/Gestion Dynamique data event' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 17:28:48,155 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:28:48,156 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:28:48,156 [INFO] Drive label: LaCie
+2025-09-22 17:28:48,156 [INFO] Single-file test mode enabled.
+2025-09-22 17:28:48,158 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:28:48,158 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:29:11,051 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:29:11,067 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_qnk0x569/catalog.jsonl
+2025-09-22 17:29:12,868 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 17:29:12,868 [INFO] Launching rsync transfer to /volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-172911/files
+2025-09-22 17:29:13,398 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_qnk0x569/manifest.txt', '--from0', '/Volumes/LaCie/', "ingest@192.168.1.37:'/volume1/Gestion Dynamique data event/.ingest/LaCie_20250922-172911/files/'"]' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 17:29:13,493 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:29:13,497 [ERROR] Cannot access base_dir '/volume1/Gestion Dynamique data event' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 17:37:21,912 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:37:21,914 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:37:21,914 [INFO] Drive label: LaCie
+2025-09-22 17:37:21,914 [INFO] Single-file test mode enabled.
+2025-09-22 17:37:21,916 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:37:21,916 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:37:44,807 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:37:44,817 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_ki5al7ne/catalog.jsonl
+2025-09-22 17:37:46,346 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 17:37:46,346 [INFO] Launching rsync transfer to homes/ingest/BigSave/.ingest/LaCie_20250922-173744/files
+2025-09-22 17:37:46,563 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_ki5al7ne/manifest.txt', '--from0', '/Volumes/LaCie/', 'ingest@192.168.1.37:homes/ingest/BigSave/.ingest/LaCie_20250922-173744/files/']' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 17:37:46,636 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:37:46,640 [ERROR] Cannot access base_dir 'homes/ingest/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 17:45:41,874 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:45:41,875 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:45:41,875 [INFO] Drive label: LaCie
+2025-09-22 17:45:41,876 [INFO] Single-file test mode enabled.
+2025-09-22 17:45:41,877 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:45:41,877 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:46:12,496 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:46:12,505 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_muv6atk6/catalog.jsonl
+2025-09-22 17:46:13,981 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 17:46:13,981 [INFO] Launching rsync transfer to /var/services/homes/ingest/BigSave/.ingest/LaCie_20250922-174612/files
+2025-09-22 17:46:14,212 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_muv6atk6/manifest.txt', '--from0', '/Volumes/LaCie/', 'ingest@192.168.1.37:/var/services/homes/ingest/BigSave/.ingest/LaCie_20250922-174612/files/']' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 17:46:14,285 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:46:14,289 [ERROR] Cannot access base_dir '/var/services/homes/ingest/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 17:47:36,919 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 17:47:36,921 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 17:47:36,921 [INFO] Drive label: LaCie
+2025-09-22 17:47:36,921 [INFO] Single-file test mode enabled.
+2025-09-22 17:47:36,923 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 17:47:36,923 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 17:47:59,968 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 17:47:59,973 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_i7tcxvdb/catalog.jsonl
+2025-09-22 17:48:01,479 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 17:48:01,479 [INFO] Launching rsync transfer to /var/services/homes/ingest/BigSave/.ingest/LaCie_20250922-174759/files
+2025-09-22 17:48:01,712 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_i7tcxvdb/manifest.txt', '--from0', '/Volumes/LaCie/', 'ingest@192.168.1.37:/var/services/homes/ingest/BigSave/.ingest/LaCie_20250922-174759/files/']' returned non-zero exit status 12.; falling back to SFTP.
+2025-09-22 17:48:01,785 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 17:48:01,790 [ERROR] Cannot access base_dir '/var/services/homes/ingest/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 18:02:45,693 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:02:45,695 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:02:45,695 [INFO] Drive label: LaCie
+2025-09-22 18:02:45,695 [INFO] Single-file test mode enabled.
+2025-09-22 18:02:45,698 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:02:45,698 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:03:16,570 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:03:16,584 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_wblojrw9/catalog.jsonl
+2025-09-22 18:03:17,977 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 18:03:18,092 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 18:07:45,856 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:07:45,857 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:07:45,858 [INFO] Drive label: LaCie
+2025-09-22 18:07:45,858 [INFO] Single-file test mode enabled.
+2025-09-22 18:07:45,860 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:07:45,860 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:08:08,721 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:08:08,731 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_ycdn0u9d/catalog.jsonl
+2025-09-22 18:11:13,783 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:11:13,784 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:11:13,784 [INFO] Drive label: LaCie
+2025-09-22 18:11:13,784 [INFO] Single-file test mode enabled.
+2025-09-22 18:11:13,786 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:11:13,786 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:11:36,819 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:11:36,827 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_dd32n9fg/catalog.jsonl
+2025-09-22 18:11:38,511 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 18:11:38,623 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 18:11:38,628 [ERROR] Cannot access base_dir '/var/services/homes/ingest/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 18:12:40,336 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:12:40,337 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:12:40,338 [INFO] Drive label: LaCie
+2025-09-22 18:12:40,338 [INFO] Single-file test mode enabled.
+2025-09-22 18:12:40,339 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:12:40,339 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:13:03,209 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:13:03,214 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_fn187tzq/catalog.jsonl
+2025-09-22 18:13:04,611 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 18:13:04,720 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 18:14:28,182 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:14:28,183 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:14:28,183 [INFO] Drive label: LaCie
+2025-09-22 18:14:28,183 [INFO] Single-file test mode enabled.
+2025-09-22 18:14:28,185 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:14:28,185 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:14:51,060 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:14:51,071 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_01pzhq78/catalog.jsonl
+2025-09-22 18:14:52,458 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 18:14:52,568 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 18:14:52,572 [ERROR] Cannot access base_dir '/var/services/homes/ingest/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 18:16:16,304 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:16:16,305 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:16:16,305 [INFO] Drive label: LaCie
+2025-09-22 18:16:16,305 [INFO] Single-file test mode enabled.
+2025-09-22 18:16:16,307 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:16:16,307 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:16:39,190 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:16:39,201 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_vlk914w0/catalog.jsonl
+2025-09-22 18:16:40,716 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 18:16:40,818 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 18:16:40,825 [ERROR] Cannot access base_dir '/volume1/Gestion Dynamique data event' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 18:17:36,339 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:17:36,340 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:17:36,341 [INFO] Drive label: LaCie
+2025-09-22 18:17:36,341 [INFO] Single-file test mode enabled.
+2025-09-22 18:17:36,342 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:17:36,342 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:17:59,211 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:17:59,217 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_420_rkqf/catalog.jsonl
+2025-09-22 18:18:00,682 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 18:18:00,785 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 18:18:00,789 [ERROR] Cannot access base_dir '/volume1/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 18:18:48,137 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:18:48,139 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:18:48,139 [INFO] Drive label: LaCie
+2025-09-22 18:18:48,139 [INFO] Single-file test mode enabled.
+2025-09-22 18:18:48,141 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:18:48,141 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:19:11,048 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:19:11,056 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_ueqpvpg_/catalog.jsonl
+2025-09-22 18:19:12,482 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 18:19:12,483 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie_20250922-181911/files
+2025-09-22 18:19:57,735 [INFO] rsync transfer complete.
+2025-09-22 18:19:57,945 [INFO] Uploading catalog.jsonl (171.00 B)
+2025-09-22 18:19:58,028 [ERROR] Cannot access base_dir '/volume1/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 18:23:53,331 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:23:53,332 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:23:53,332 [INFO] Drive label: LaCie
+2025-09-22 18:23:53,332 [INFO] Single-file test mode enabled.
+2025-09-22 18:23:53,333 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:23:53,333 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:24:16,192 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:24:16,199 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_zd3td_op/catalog.jsonl
+2025-09-22 18:24:16,234 [ERROR] SSH connection failed: [Errno 51] Network is unreachable
+2025-09-22 18:24:24,456 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:24:24,457 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:24:24,457 [INFO] Drive label: LaCie
+2025-09-22 18:24:24,457 [INFO] Single-file test mode enabled.
+2025-09-22 18:24:24,458 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:24:24,458 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:24:47,307 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:24:47,318 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_54peo44c/catalog.jsonl
+2025-09-22 18:24:48,286 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 18:24:48,287 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie_20250922-182447/files
+2025-09-22 18:28:31,785 [INFO] rsync transfer complete.
+2025-09-22 18:28:31,789 [INFO] Uploading catalog.jsonl via rsync
+2025-09-22 18:28:32,247 [INFO] catalog.jsonl transfer complete.
+2025-09-22 18:28:32,250 [INFO] Remote ingest location: /volume1/BigSave/.ingest/LaCie_20250922-182447
+2025-09-22 18:28:32,250 [INFO] Files ingested: 1
+2025-09-22 18:28:32,250 [INFO] Total size: 903.65 MB
+2025-09-22 18:28:32,251 [INFO] No duplicate SHA-256 hashes detected.
+2025-09-22 18:34:17,928 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:34:17,929 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:34:17,929 [INFO] Drive label: LaCie
+2025-09-22 18:34:17,929 [INFO] Single-file test mode enabled.
+2025-09-22 18:34:17,930 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:34:17,930 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:34:40,718 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:34:40,723 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_2t5eb5s8/catalog.jsonl
+2025-09-22 18:34:41,659 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 18:34:41,660 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie_20250922-183440/files
+2025-09-22 18:35:15,106 [INFO] rsync transfer complete.
+2025-09-22 18:35:15,108 [INFO] Uploading catalog.jsonl via rsync
+2025-09-22 18:35:15,487 [INFO] catalog.jsonl transfer complete.
+2025-09-22 18:35:15,489 [INFO] Remote ingest location: /volume1/BigSave/.ingest/LaCie_20250922-183440
+2025-09-22 18:35:15,489 [INFO] Files ingested: 1
+2025-09-22 18:35:15,489 [INFO] Total size: 903.65 MB
+2025-09-22 18:35:15,489 [INFO] No duplicate SHA-256 hashes detected.
+2025-09-22 18:37:59,168 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 18:37:59,169 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 18:37:59,169 [INFO] Drive label: LaCie
+2025-09-22 18:37:59,169 [INFO] Single-file test mode enabled.
+2025-09-22 18:37:59,170 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 18:37:59,170 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 18:38:22,022 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 18:38:22,029 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_hi8us_rd/catalog.jsonl
+2025-09-22 18:38:22,998 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 18:38:22,998 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie_20250922-183822/files
+2025-09-22 18:38:53,613 [INFO] rsync transfer complete.
+2025-09-22 18:38:53,615 [INFO] Uploading catalog.jsonl via rsync
+2025-09-22 18:38:53,969 [INFO] catalog.jsonl transfer complete.
+2025-09-22 18:38:53,971 [INFO] Remote ingest location: /volume1/BigSave/.ingest/LaCie_20250922-183822
+2025-09-22 18:38:53,972 [INFO] Files ingested: 1
+2025-09-22 18:38:53,972 [INFO] Total size: 903.65 MB
+2025-09-22 18:38:53,972 [INFO] No duplicate SHA-256 hashes detected.
+2025-09-22 19:02:27,590 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:02:27,591 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:02:27,591 [INFO] Drive label: LaCie
+2025-09-22 19:02:27,675 [INFO] Single-file test mode enabled.
+2025-09-22 19:02:27,676 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:02:27,676 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:02:50,703 [ERROR] Interrupted by user.
+2025-09-22 19:02:54,079 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:02:54,080 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:02:54,080 [INFO] Drive label: LaCie
+2025-09-22 19:02:54,081 [INFO] Single-file test mode enabled.
+2025-09-22 19:02:54,082 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:02:54,082 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:03:18,287 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:03:18,294 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_gwpmjpk0/catalog.jsonl
+2025-09-22 19:03:19,359 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 19:03:19,544 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 19:03:19,548 [ERROR] Cannot access base_dir '/volume1/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 19:03:29,194 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:03:29,196 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:03:29,196 [INFO] Drive label: LaCie
+2025-09-22 19:03:29,196 [INFO] Single-file test mode enabled.
+2025-09-22 19:03:29,197 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:03:29,197 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:03:52,080 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:03:52,087 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_xz9indcj/catalog.jsonl
+2025-09-22 19:03:53,124 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:03:53,124 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie_20250922-190352/files
+2025-09-22 19:04:26,206 [INFO] rsync transfer complete.
+2025-09-22 19:04:26,207 [INFO] Uploading catalog.jsonl via rsync
+2025-09-22 19:04:26,752 [INFO] catalog.jsonl transfer complete.
+2025-09-22 19:04:26,753 [INFO] Uploading manifest.txt via rsync
+2025-09-22 19:04:27,045 [INFO] manifest.txt transfer complete.
+2025-09-22 19:04:27,046 [INFO] Finalizing ingest: moving files from /volume1/BigSave/.ingest/LaCie_20250922-190352/files to /volume1/BigSave
+2025-09-22 19:04:27,126 [WARNING] Source missing during finalize: /volume1/BigSave/.ingest/LaCie_20250922-190352/files/PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:04:27,250 [INFO] Uploading finalize.json (335.00 B)
+2025-09-22 19:04:27,257 [ERROR] Finalize step failed: Cannot access base_dir '/volume1/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 19:11:29,736 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:11:29,737 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:11:29,737 [INFO] Drive label: LaCie
+2025-09-22 19:11:29,737 [INFO] Single-file test mode enabled.
+2025-09-22 19:11:29,738 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:11:29,738 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:12:00,401 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:12:00,410 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_axjfu8pe/catalog.jsonl
+2025-09-22 19:12:00,410 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:12:01,429 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 19:12:01,546 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 19:12:01,550 [ERROR] Cannot access base_dir '/volume1/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 19:12:07,161 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:12:07,162 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:12:07,162 [INFO] Drive label: LaCie
+2025-09-22 19:12:07,162 [INFO] Single-file test mode enabled.
+2025-09-22 19:12:07,163 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:12:07,164 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:12:29,898 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:12:29,904 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_xor77bd2/catalog.jsonl
+2025-09-22 19:12:29,905 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:12:30,823 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 19:12:31,007 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 19:12:31,012 [ERROR] Cannot access base_dir '/volume1/BigSave' via SFTP (check folder permissions for the SSH user): [Errno 2] No such file
+2025-09-22 19:13:55,442 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:13:55,443 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:13:55,443 [INFO] Drive label: LaCie
+2025-09-22 19:13:55,443 [INFO] Single-file test mode enabled.
+2025-09-22 19:13:55,444 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:13:55,444 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:14:18,242 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:14:18,247 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_du87e3bw/catalog.jsonl
+2025-09-22 19:14:18,247 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:14:19,357 [INFO] Skipping rsync; using SFTP fallback.
+2025-09-22 19:14:19,474 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 19:14:19,494 [ERROR] SFTP mkdir failed for '/volume1/BigSave': [Errno 2] No such file
+2025-09-22 19:17:54,077 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:17:54,078 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:17:54,079 [INFO] Drive label: LaCie
+2025-09-22 19:17:54,079 [INFO] Single-file test mode enabled.
+2025-09-22 19:17:54,080 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:17:54,080 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:18:16,856 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:18:16,860 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_box078vq/catalog.jsonl
+2025-09-22 19:18:16,860 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:18:17,848 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:18:17,848 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie/files
+2025-09-22 19:18:48,187 [INFO] rsync transfer complete.
+2025-09-22 19:18:48,189 [INFO] Uploading catalog.jsonl via rsync
+2025-09-22 19:18:48,525 [INFO] catalog.jsonl transfer complete.
+2025-09-22 19:18:48,525 [INFO] Uploading manifest.txt via rsync
+2025-09-22 19:18:48,811 [INFO] manifest.txt transfer complete.
+2025-09-22 19:18:48,812 [INFO] Finalizing ingest: moving files from /volume1/BigSave/.ingest/LaCie/files to /volume1/BigSave
+2025-09-22 19:18:48,889 [WARNING] Source missing during finalize: /volume1/BigSave/.ingest/LaCie/files/PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:18:48,906 [INFO] Uploading finalize.json (335.00 B)
+2025-09-22 19:18:48,965 [ERROR] Finalize step failed: SFTP mkdir failed for '/volume1/BigSave': [Errno 2] No such file
+2025-09-22 19:19:22,750 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:19:22,751 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:19:22,751 [INFO] Drive label: LaCie
+2025-09-22 19:19:22,752 [INFO] Single-file test mode enabled.
+2025-09-22 19:19:22,753 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:19:22,753 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:19:45,538 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:19:45,545 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_qd7fx_q8/catalog.jsonl
+2025-09-22 19:19:45,545 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:19:46,533 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:19:46,533 [INFO] Launching rsync transfer to /volume1/BigSave/.ingest/LaCie/files
+2025-09-22 19:19:46,808 [INFO] rsync transfer complete.
+2025-09-22 19:19:46,809 [INFO] Uploading catalog.jsonl via rsync
+2025-09-22 19:19:47,068 [INFO] catalog.jsonl transfer complete.
+2025-09-22 19:19:47,069 [INFO] Uploading manifest.txt via rsync
+2025-09-22 19:19:47,330 [INFO] manifest.txt transfer complete.
+2025-09-22 19:19:47,331 [INFO] Finalizing ingest: moving files from /volume1/BigSave/.ingest/LaCie/files to /volume1/BigSave
+2025-09-22 19:19:47,424 [WARNING] Source missing during finalize: /volume1/BigSave/.ingest/LaCie/files/PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:19:47,436 [INFO] Uploading finalize.json (335.00 B)
+2025-09-22 19:19:47,490 [ERROR] Finalize step failed: SFTP mkdir failed for '/volume1/BigSave': [Errno 2] No such file
+2025-09-22 19:24:08,769 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:24:08,770 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:24:08,770 [INFO] Drive label: LaCie
+2025-09-22 19:24:08,770 [INFO] Single-file test mode enabled.
+2025-09-22 19:24:08,772 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:24:08,772 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:24:31,741 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:24:31,750 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_rgiz5lkf/catalog.jsonl
+2025-09-22 19:24:31,751 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:24:32,733 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:24:32,733 [INFO] Running rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files)
+2025-09-22 19:24:32,751 [INFO] [rsync] rsync: --outbuf=L: unknown option
+2025-09-22 19:24:32,776 [INFO] [rsync] rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/4b66fb3c-7dd0-11ef-b4fb-4a83e32a47e1/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+2025-09-22 19:24:32,777 [WARNING] rsync exited with Command '['rsync', '-av', '--human-readable', '--progress', '--outbuf=L', '--prune-empty-dirs', '--files-from', '/var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_rgiz5lkf/manifest.txt', '--from0', '/Volumes/LaCie/', 'ingest@192.168.1.37:/volume1/BigSave/.ingest/LaCie/files/']' returned non-zero exit status 1.; falling back to SFTP.
+2025-09-22 19:24:32,892 [INFO] Uploading 1 files via SFTP (903.65 MB total)
+2025-09-22 19:24:32,911 [ERROR] SFTP mkdir failed for '/volume1/BigSave': [Errno 2] No such file
+2025-09-22 19:28:32,466 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:28:32,467 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:28:32,468 [INFO] Drive label: LaCie
+2025-09-22 19:28:32,468 [INFO] Single-file test mode enabled.
+2025-09-22 19:28:32,469 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:28:32,469 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:28:55,313 [INFO] Hashing progress: 1/1 files (100.0%)
+2025-09-22 19:28:55,324 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_zixx1rga/catalog.jsonl
+2025-09-22 19:28:55,324 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:28:56,558 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:28:56,558 [INFO] Running rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files)
+2025-09-22 19:28:56,805 [INFO] [rsync] building file list ...
+2025-09-22 19:28:56,807 [INFO] [rsync]  0 files...
+2025-09-22 19:28:56,807 [INFO] [rsync] 3 files to consider
+2025-09-22 19:28:56,842 [INFO] [rsync] sent 138 bytes  received 20 bytes  316.00 bytes/sec
+2025-09-22 19:28:56,842 [INFO] [rsync] total size is 947.55M  speedup is 5997131.32
+2025-09-22 19:28:56,842 [INFO] rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files) completed.
+2025-09-22 19:28:56,842 [INFO] Running rsync (catalog.jsonl)
+2025-09-22 19:28:57,075 [INFO] [rsync] building file list ...
+2025-09-22 19:28:57,076 [INFO] [rsync]  0 files...
+2025-09-22 19:28:57,076 [INFO] [rsync] 1 file to consider
+2025-09-22 19:28:57,080 [INFO] [rsync] catalog.jsonl
+2025-09-22 19:28:57,080 [INFO] [rsync]          171 100%    0.00kB/s    0:00:00
+2025-09-22 19:28:57,081 [INFO] [rsync]          171 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+2025-09-22 19:28:57,114 [INFO] [rsync] sent 137 bytes  received 48 bytes  123.33 bytes/sec
+2025-09-22 19:28:57,114 [INFO] [rsync] total size is 171  speedup is 0.92
+2025-09-22 19:28:57,114 [INFO] rsync (catalog.jsonl) completed.
+2025-09-22 19:28:57,114 [INFO] Running rsync (manifest.txt)
+2025-09-22 19:28:57,350 [INFO] [rsync] building file list ...
+2025-09-22 19:28:57,352 [INFO] [rsync]  0 files...
+2025-09-22 19:28:57,352 [INFO] [rsync] 1 file to consider
+2025-09-22 19:28:57,356 [INFO] [rsync] manifest.txt
+2025-09-22 19:28:57,356 [INFO] [rsync]           30 100%    0.00kB/s    0:00:00
+2025-09-22 19:28:57,357 [INFO] [rsync]           30 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+2025-09-22 19:28:57,388 [INFO] [rsync] sent 136 bytes  received 48 bytes  368.00 bytes/sec
+2025-09-22 19:28:57,389 [INFO] [rsync] total size is 30  speedup is 0.16
+2025-09-22 19:28:57,389 [INFO] rsync (manifest.txt) completed.
+2025-09-22 19:28:57,389 [INFO] Finalizing ingest: moving 1 files from /volume1/BigSave/.ingest/LaCie/files to /volume1/BigSave
+2025-09-22 19:28:57,470 [WARNING] Source missing during finalize: /volume1/BigSave/.ingest/LaCie/files/PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:28:57,484 [INFO] Uploading finalize.json (335.00 B)
+2025-09-22 19:28:57,558 [ERROR] Finalize step failed: [Errno 2] No such file
+2025-09-22 19:34:30,385 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:34:30,386 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:34:30,386 [INFO] Drive label: LaCie
+2025-09-22 19:34:30,386 [INFO] Single-file test mode enabled.
+2025-09-22 19:34:30,387 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:34:30,387 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:34:53,348 [INFO] Hashing progress: 1/1 files (100.0%) ETA 0s
+2025-09-22 19:34:53,353 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_gya7gtxb/catalog.jsonl
+2025-09-22 19:34:53,353 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:34:54,441 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:34:54,442 [INFO] Running rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files)
+2025-09-22 19:34:54,731 [INFO] [rsync] building file list ...
+2025-09-22 19:34:54,733 [INFO] [rsync]  0 files...
+2025-09-22 19:34:54,733 [INFO] [rsync] 3 files to consider
+2025-09-22 19:34:54,815 [INFO] [rsync] sent 138 bytes  received 20 bytes  316.00 bytes/sec
+2025-09-22 19:34:54,816 [INFO] [rsync] total size is 947.55M  speedup is 5997131.32
+2025-09-22 19:34:54,816 [INFO] rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files) completed.
+2025-09-22 19:34:54,816 [INFO] Running rsync (catalog.jsonl)
+2025-09-22 19:34:55,056 [INFO] [rsync] building file list ...
+2025-09-22 19:34:55,057 [INFO] [rsync]  0 files...
+2025-09-22 19:34:55,058 [INFO] [rsync] 1 file to consider
+2025-09-22 19:34:55,061 [INFO] [rsync] catalog.jsonl
+2025-09-22 19:34:55,061 [INFO] [rsync]          171 100%    0.00kB/s    0:00:00
+2025-09-22 19:34:55,061 [INFO] [rsync]          171 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+2025-09-22 19:34:55,092 [INFO] [rsync] sent 137 bytes  received 48 bytes  123.33 bytes/sec
+2025-09-22 19:34:55,092 [INFO] [rsync] total size is 171  speedup is 0.92
+2025-09-22 19:34:55,092 [INFO] rsync (catalog.jsonl) completed.
+2025-09-22 19:34:55,092 [INFO] Running rsync (manifest.txt)
+2025-09-22 19:34:55,328 [INFO] [rsync] building file list ...
+2025-09-22 19:34:55,329 [INFO] [rsync]  0 files...
+2025-09-22 19:34:55,329 [INFO] [rsync] 1 file to consider
+2025-09-22 19:34:55,334 [INFO] [rsync] manifest.txt
+2025-09-22 19:34:55,334 [INFO] [rsync]           30 100%    0.00kB/s    0:00:00
+2025-09-22 19:34:55,334 [INFO] [rsync]           30 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+2025-09-22 19:34:55,366 [INFO] [rsync] sent 136 bytes  received 48 bytes  368.00 bytes/sec
+2025-09-22 19:34:55,366 [INFO] [rsync] total size is 30  speedup is 0.16
+2025-09-22 19:34:55,367 [INFO] rsync (manifest.txt) completed.
+2025-09-22 19:34:55,367 [INFO] Finalizing ingest: moving 1 files from /volume1/BigSave/.ingest/LaCie/files to /volume1/BigSave
+2025-09-22 19:34:55,456 [WARNING] Source missing during finalize: /volume1/BigSave/.ingest/LaCie/files/PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:34:55,470 [INFO] Uploading finalize.json (335.00 B)
+2025-09-22 19:34:55,585 [ERROR] Finalize step failed: [Errno 2] No such file
+2025-09-22 19:37:02,194 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:37:02,195 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:37:02,195 [INFO] Drive label: LaCie
+2025-09-22 19:37:02,196 [INFO] Scanning source for files...
+2025-09-22 19:43:18,327 [ERROR] Interrupted by user.
+2025-09-22 19:43:29,845 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:43:29,846 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:43:29,846 [INFO] Drive label: LaCie
+2025-09-22 19:43:29,846 [INFO] Single-file test mode enabled.
+2025-09-22 19:43:30,097 [INFO] Ingesting only PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:43:30,097 [INFO] Hashing with 8 worker threads (status interval 5.0s).
+2025-09-22 19:43:56,521 [INFO] Hashing progress: 1/1 files (100.0%) ETA 0s
+2025-09-22 19:43:56,527 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_vwlwsfi5/catalog.jsonl
+2025-09-22 19:43:56,527 [INFO] Using static ingest folder: LaCie
+2025-09-22 19:43:57,132 [INFO] rsync 2.6.9 does not support --protect-args; quoting remote path manually. Consider installing rsync >= 3.0 for better compatibility.
+2025-09-22 19:43:57,132 [INFO] Running rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files)
+2025-09-22 19:43:57,358 [INFO] [rsync] building file list ...
+2025-09-22 19:43:57,360 [INFO] [rsync]  0 files...
+2025-09-22 19:43:57,360 [INFO] [rsync] 3 files to consider
+2025-09-22 19:43:57,393 [INFO] [rsync] sent 138 bytes  received 20 bytes  316.00 bytes/sec
+2025-09-22 19:43:57,394 [INFO] [rsync] total size is 947.55M  speedup is 5997131.32
+2025-09-22 19:43:57,394 [INFO] rsync (transfer -> /volume1/BigSave/.ingest/LaCie/files) completed.
+2025-09-22 19:43:57,394 [INFO] Running rsync (catalog.jsonl)
+2025-09-22 19:43:57,604 [INFO] [rsync] building file list ...
+2025-09-22 19:43:57,605 [INFO] [rsync]  0 files...
+2025-09-22 19:43:57,605 [INFO] [rsync] 1 file to consider
+2025-09-22 19:43:57,608 [INFO] [rsync] catalog.jsonl
+2025-09-22 19:43:57,608 [INFO] [rsync]          171 100%    0.00kB/s    0:00:00
+2025-09-22 19:43:57,608 [INFO] [rsync]          171 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+2025-09-22 19:43:57,639 [INFO] [rsync] sent 137 bytes  received 48 bytes  370.00 bytes/sec
+2025-09-22 19:43:57,639 [INFO] [rsync] total size is 171  speedup is 0.92
+2025-09-22 19:43:57,639 [INFO] rsync (catalog.jsonl) completed.
+2025-09-22 19:43:57,639 [INFO] Running rsync (manifest.txt)
+2025-09-22 19:43:57,856 [INFO] [rsync] building file list ...
+2025-09-22 19:43:57,859 [INFO] [rsync]  0 files...
+2025-09-22 19:43:57,859 [INFO] [rsync] 1 file to consider
+2025-09-22 19:43:57,862 [INFO] [rsync] manifest.txt
+2025-09-22 19:43:57,862 [INFO] [rsync]           30 100%    0.00kB/s    0:00:00
+2025-09-22 19:43:57,863 [INFO] [rsync]           30 100%    0.00kB/s    0:00:00 (xfer#1, to-check=0/1)
+2025-09-22 19:43:57,893 [INFO] [rsync] sent 136 bytes  received 48 bytes  368.00 bytes/sec
+2025-09-22 19:43:57,893 [INFO] [rsync] total size is 30  speedup is 0.16
+2025-09-22 19:43:57,894 [INFO] rsync (manifest.txt) completed.
+2025-09-22 19:43:57,894 [INFO] Finalizing ingest: moving 1 files from /volume1/BigSave/.ingest/LaCie/files to /volume1/BigSave
+2025-09-22 19:43:57,983 [WARNING] Source missing during finalize: /volume1/BigSave/.ingest/LaCie/files/PR/NEW PR/EVS-PR_023-111A.mov
+2025-09-22 19:43:57,995 [INFO] Uploading finalize.json (335.00 B)
+2025-09-22 19:43:58,063 [ERROR] Finalize step failed: [Errno 2] No such file
+2025-09-22 19:44:05,356 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 19:44:05,357 [INFO] Source volume: /Volumes/LaCie
+2025-09-22 19:44:05,357 [INFO] Drive label: LaCie
+2025-09-22 19:44:05,357 [INFO] Scanning source for files...
+2025-09-22 20:14:09,657 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 20:14:09,658 [INFO] Source volume: /Volumes/SAMSUNG
+2025-09-22 20:14:09,659 [INFO] Drive label: SAMSUNG
+2025-09-22 20:14:09,659 [INFO] Scanning source for files...
+2025-09-22 20:18:31,713 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/audit/current due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/audit/current'
+2025-09-22 20:18:31,770 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex'
+2025-09-22 20:18:31,771 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-shm due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-shm'
+2025-09-22 20:18:31,771 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-wal due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-07-10-124921/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-wal'
+2025-09-22 20:29:26,392 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/audit/current due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/audit/current'
+2025-09-22 20:29:26,612 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex'
+2025-09-22 20:29:26,612 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-shm due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-shm'
+2025-09-22 20:29:26,613 [WARNING] Skipping /Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-wal due to access error: [Errno 13] Permission denied: '/Volumes/SAMSUNG/Backups.backupdb/MacBook Air de Yann/2013-08-02-205312/Macintosh HD/private/var/db/dslocal/nodes/Default/sqlindex-wal'
+2025-09-22 20:43:42,961 [ERROR] Interrupted by user.
+2025-09-22 20:43:49,214 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 20:43:49,215 [INFO] Source volume: /Volumes/SAMSUNG
+2025-09-22 20:43:49,215 [INFO] Drive label: SAMSUNG
+2025-09-22 20:43:49,215 [INFO] Scanning source for files...
+2025-09-22 20:50:14,725 [ERROR] Interrupted by user.
+2025-09-22 20:50:17,192 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 20:50:17,193 [INFO] Source volume: /Volumes/SAMSUNG
+2025-09-22 20:50:17,193 [INFO] Drive label: SAMSUNG
+2025-09-22 20:50:17,193 [INFO] Scanning source for files...
+2025-09-22 23:06:32,945 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:06:32,946 [INFO] Source volume: /Users/louisdesgree/dynamic-data-storage/ingest_app
+2025-09-22 23:06:32,946 [INFO] Drive label: ingest_app
+2025-09-22 23:06:32,946 [INFO] Single-file test mode enabled.
+2025-09-22 23:06:32,947 [INFO] Ingesting only ingest.py
+2025-09-22 23:06:32,947 [INFO] Hashing with 8 worker threads (status interval 2.0s).
+2025-09-22 23:06:32,986 [INFO] Catalog written to /var/folders/mm/z_9qbnn55915nz6t0xfw8d2m0000gn/T/ingest_7yogvgs2/catalog.jsonl
+2025-09-22 23:06:32,987 [INFO] Dry-run complete. Skipping transfer.
+2025-09-22 23:06:32,987 [INFO] Remote ingest location: <dry-run>
+2025-09-22 23:06:32,987 [INFO] Files ingested: 1
+2025-09-22 23:06:32,987 [INFO] Total size: 53.38 KB
+2025-09-22 23:06:32,987 [INFO] No duplicate SHA-256 hashes detected.
+2025-09-22 23:08:15,773 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:08:15,774 [ERROR] Source path /Volumes/LaCie does not exist or is not a directory.
+2025-09-22 23:09:11,568 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:09:11,569 [ERROR] Source path /Volumes/<actual-name> does not exist or is not a directory.
+2025-09-22 23:09:27,253 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:09:27,253 [ERROR] Source path /Volumes/<Samsung> does not exist or is not a directory.
+2025-09-22 23:10:15,584 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:10:15,585 [ERROR] Source path /Volumes/<SAMSUNG> does not exist or is not a directory.
+2025-09-22 23:12:11,488 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:12:11,488 [INFO] Source volume: /Volumes/SAMSUNG
+2025-09-22 23:12:11,489 [INFO] Drive label: SAMSUNG
+2025-09-22 23:12:11,506 [INFO] Scanning source for files...
+2025-09-22 23:26:15,718 [ERROR] Interrupted by user.
+2025-09-22 23:26:17,272 [INFO] Logging to /Users/louisdesgree/dynamic-data-storage/ingest_app/ingest.log
+2025-09-22 23:26:17,273 [INFO] Source volume: /Volumes/SAMSUNG
+2025-09-22 23:26:17,273 [INFO] Drive label: SAMSUNG
+2025-09-22 23:26:17,273 [INFO] Scanning source for files...
